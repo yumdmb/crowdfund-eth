@@ -1,0 +1,21 @@
+{
+  "contractName": "Crowdfund",
+  "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "deployerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "beneficiaryAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "network": {
+    "name": "default",
+    "chainId": 31337
+  },
+  "parameters": {
+    "goal": "10",
+    "durationInDays": 30,
+    "deadline": 1759387704
+  },
+  "transaction": {
+    "hash": "0x941eed8ca81430e35fd437593a895eaa91a4b7760f41655553dbe691333173cf",
+    "gasUsed": "1157696",
+    "blockNumber": 1
+  },
+  "deployedAt": "2025-09-02T06:48:27.655Z"
+}
